@@ -18,7 +18,7 @@ const Profile = () => {
                 <div>
                     <div className='flex mt-5 items-center gap-4 px-4'>
                         <img
-                            src="src/assets/user.webp"
+                            src="/user.png"
                             alt="Profile"
                             className="w-16 h-16 rounded-full object-cover"
                         />
